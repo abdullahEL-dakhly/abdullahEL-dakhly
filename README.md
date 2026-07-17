@@ -7,11 +7,11 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abdullahEL-dakhly&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" />
+<img src="https://img.shields.io/github/followers/abdullahEL-dakhly?style=social" />
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social" />
+<img src="https://img.shields.io/github/stars/abdullahEL-dakhly?style=social" />
 </p>
 
 ---
@@ -55,9 +55,9 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahEL-dakhly&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahEL-dakhly&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -67,7 +67,7 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abdullahEL-dakhly&theme=tokyonight"/>
 
 </p>
 
@@ -77,7 +77,7 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahEL-dakhly&theme=tokyo-night"/>
 
 </p>
 
@@ -87,7 +87,7 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahEL-dakhly&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -168,11 +168,11 @@ Android application.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdullahEL-dakhly">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/abdullah-a-el-dakhly-683098366">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
