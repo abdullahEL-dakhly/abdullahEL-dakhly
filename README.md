@@ -139,94 +139,169 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 # 🚀 Featured Projects
 
-> Here are some of the projects I'm building and continuously improving.
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=My+Featured+Projects;Laravel+%7C+Kotlin+%7C+Android"/>
 
-## 🚀 Laravel REST API Boilerplate
+</div>
 
-A production-ready Laravel REST API with clean architecture and best practices.
+<table>
+<tr>
 
-### Features
+<td width="50%" valign="top">
 
-- JWT Authentication
-- Roles & Permissions
-- RESTful API
-- Form Requests Validation
-- API Resources
-- Repository Pattern
-- Swagger/OpenAPI Documentation
-- Unit & Feature Testing
+<h3 align="center">🚀 Laravel REST API</h3>
 
-**Tech Stack:** Laravel • PHP • MySQL • Docker • Postman
+<p align="center">
 
-> 🔗 Repository: *Coming Soon*
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
 
----
+</p>
 
-## 📧 Gmail Cleaner
+### ✨ Features
 
-A modern Android application for organizing Gmail using the Gmail API.
+- 🔐 JWT Authentication
+- 👥 Roles & Permissions
+- 📦 REST API
+- ✅ Validation
+- 🗂 Repository Pattern
+- 📖 Swagger Documentation
 
-### Features
+<p align="center">
 
-- Google Sign-In
-- OAuth 2.0
-- Gmail API
-- Bulk Delete
-- Smart Filters
-- Labels Management
-- MVVM Architecture
-- Room Database
-- Coroutines
-- Retrofit
+<img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
 
-**Tech Stack:** Kotlin • Jetpack Compose • MVVM • Room • Retrofit
+</p>
 
-> 🔗 Repository: *Coming Soon*
+<p align="center">
 
----
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+</a>
 
-## 🕌 Prayer Reminder
+</p>
 
-An Android application that reminds users before prayer times.
+</td>
 
-### Features
+<td width="50%" valign="top">
 
-- Prayer Times API
-- AlarmManager
-- Local Notifications
-- Qibla Direction
-- Location Services
-- Offline Prayer Schedule
-- Background Tasks
+<h3 align="center">📧 Gmail Cleaner</h3>
 
-**Tech Stack:** Kotlin • Jetpack Compose • Room • WorkManager
+<p align="center">
 
-> 🔗 Repository: *Coming Soon*
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
 
----
+</p>
 
-## 🛒 Multi Vendor E-Commerce API
+### ✨ Features
 
-A scalable backend API for multi-vendor e-commerce platforms.
+- 🔑 Gmail API
+- 🔒 OAuth 2.0
+- 🧠 MVVM
+- 🌐 Retrofit
+- 💾 Room
+- ⚡ Coroutines
 
-### Features
+<p align="center">
 
-- Authentication
-- Vendor Management
-- Products
-- Categories
-- Orders
-- Payments
-- Coupons
-- Reviews
-- Admin Dashboard
-- REST API
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/Compose-blue?style=for-the-badge"/>
 
-**Tech Stack:** Laravel • MySQL • Redis • Docker
+</p>
 
-> 🔗 Repository: *Coming Soon*
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🕌 Prayer Reminder</h3>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
+
+</p>
+
+### ✨ Features
+
+- 🕌 Prayer Times
+- 🔔 Notifications
+- ⏰ AlarmManager
+- 📍 GPS
+- 🧭 Qibla
+- 🌙 Background Tasks
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
+
+</p>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Multi Vendor API</h3>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180"/>
+
+</p>
+
+### ✨ Features
+
+- 🛍 Products
+- 👨‍💼 Vendors
+- 📦 Orders
+- 💳 Payments
+- 🎟 Coupons
+- ⭐ Reviews
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 🏅 GitHub Achievements
