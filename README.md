@@ -6,7 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&random=false&width=700&lines=Backend+Laravel+Developer;REST+API+Developer;Kotlin+Android+Learner;Always+Learning+New+Things"/>
 
-![](https://komarev.com/ghpvc/?username=abdullahEL-dakhly&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdullahEL-dakhly&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/abdullahEL-dakhly?style=social" />
+
+<img src="https://img.shields.io/github/stars/abdullahEL-dakhly?style=social" />
+</p>
 
 </div>
 
