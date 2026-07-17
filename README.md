@@ -137,18 +137,6 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 ---
 
-# ⭐ Featured Projects
-
-> سأضيف روابط المشاريع بعد رفعها على GitHub.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Laravel REST API
-
-Modern REST API built using Laravel.
-
 # 🚀 Featured Projects
 
 ## 🔹 Laravel REST API
