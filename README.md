@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm Abdullah Ahmed EL-Dakhly</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Laravel Developer • REST API Developer • Kotlin Android Learner
-</h3>
+# 👋 Hi, I'm Abdullah Ahmed EL-Dakhly
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Laravel+Developer;REST+API+Developer;Kotlin+Android+Learner;Always+Learning+New+Things"/>
-</p>
+### 🚀 Backend Laravel Developer | REST API Developer | Kotlin Android Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&random=false&width=700&lines=Backend+Laravel+Developer;REST+API+Developer;Kotlin+Android+Learner;Always+Learning+New+Things"/>
+
+![](https://komarev.com/ghpvc/?username=abdullahEL-dakhly&style=for-the-badge)
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Backend Developer from Egypt 🇪🇬
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🔭 Currently working on Laravel REST APIs
-- 🌱 Learning Kotlin & Android Development
-- 💡 Interested in Clean Architecture & Design Patterns
-- ⚡ Passionate about Backend Development
-- 🎯 Goal: Become a Senior Backend Engineer
+I'm a passionate **Backend Developer** from **Egypt 🇪🇬** who enjoys building scalable web applications and REST APIs using Laravel.
+
+### 🔥 Current Focus
+
+- 🚀 Laravel Backend Development
+- 🔥 REST API Development
+- 📱 Kotlin Android Development
+- 🏗 Clean Architecture
+- 📚 Design Patterns
+- ⚙ SOLID Principles
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel Advanced
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Coroutines
+- Firebase
+- Docker
+- Linux
 
 ---
 
@@ -26,163 +46,272 @@ I'm a Backend Developer from Egypt 🇪🇬
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php"/>
+<img src="https://skillicons.dev/icons?i=php" />
 
-<img src="https://skillicons.dev/icons?i=laravel"/>
+<img src="https://skillicons.dev/icons?i=laravel" />
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git" />
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=docker" />
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=postman" />
 
-<img src="https://skillicons.dev/icons?i=kotlin"/>
+<img src="https://skillicons.dev/icons?i=kotlin" />
 
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" />
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=firebase" />
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahEL-dakhly&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=abdullahEL-dakhly&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahEL-dakhly&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahEL-dakhly&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abdullahEL-dakhly&theme=tokyonight"/>
+<img
+src="https://streak-stats.demolab.com?user=abdullahEL-dakhly&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahEL-dakhly&theme=tokyo-night"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahEL-dakhly&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahEL-dakhly&theme=tokyonight&margin-w=10&row=2&column=4"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=abdullahEL-dakhly&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/output/github-contribution-grid-snake-dark.svg"/>
+<img
+src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Laravel Advanced
-- Design Patterns
-- SOLID Principles
-- Clean Architecture
-- Android with Kotlin
-- Jetpack Compose
-- Coroutines
-- MVVM
+</div>
 
 ---
 
 # ⭐ Featured Projects
 
+> سأضيف روابط المشاريع بعد رفعها على GitHub.
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🚀 Laravel REST API
 
-Modern REST API built with Laravel.
+Modern REST API built using Laravel.
 
----
+### Features
+
+- Authentication
+- Authorization
+- RESTful API
+- Resource Responses
+- Validation
+- API Resources
+
+</td>
+
+<td width="50%">
 
 ### 📧 Clean Email Clone
 
-Email management app using Gmail API.
+Email management application inspired by Clean Email.
+
+### Features
+
+- Gmail API
+- OAuth2
+- Labels
+- Bulk Delete
+- Filters
+- Search
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Multi Vendor API
+
+Laravel Multi Vendor Backend.
+
+### Features
+
+- Products
+- Categories
+- Orders
+- Payments
+- Dashboard
+- Roles & Permissions
+
+</td>
+
+<td width="50%">
+
+### 📱 Prayer Alarm
+
+Android App using Kotlin.
+
+### Features
+
+- Prayer Times
+- Notifications
+- Alarm Before Adhan
+- Qibla
+- Azkar
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-### 📱 Prayer Alarm App
+# 🎯 Goals for 2026
 
-Android app built with Kotlin.
+- ✅ Become Laravel Backend Engineer
+- ✅ Master REST API Design
+- ✅ Learn System Design
+- ✅ Master Docker
+- ✅ Learn Kubernetes Basics
+- ✅ Build Production Applications
+- ✅ Publish Android Apps
+- ✅ Contribute to Open Source
 
 ---
 
-### 🛒 Multi Vendor E-Commerce API
+# 📚 Learning Roadmap
 
-Backend using Laravel.
+```text
+✔ PHP
+
+✔ OOP
+
+✔ MySQL
+
+✔ Git
+
+✔ Laravel
+
+⬜ Design Patterns
+
+⬜ SOLID
+
+⬜ Docker
+
+⬜ Linux
+
+⬜ Testing
+
+⬜ System Design
+
+⬜ Microservices
+
+⬜ Kotlin
+
+⬜ Android
+
+⬜ Jetpack Compose
+```
 
 ---
 
-# 📫 Connect With Me
+# 🏅 GitHub Achievements
 
-<p align="center">
+<div align="center">
+
+Keep coding every day and unlock more GitHub achievements 🚀
+
+</div>
+
+---
+
+# 📜 Certifications
+
+Coming Soon...
+
+- Laravel
+- Kotlin
+- Google
+- Meta
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
 
 <a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abdullahEL-dakhly&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💬 Favorite Quote
+# 💡 Fun Fact
 
 > "First, solve the problem. Then, write the code."
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ If you like my work, don't forget to star my repositories.
+### ⭐ Thanks for visiting my profile ⭐
 
-</p>
+If you like my work,
+
+Don't forget to ⭐ my repositories.
+
+🚀 Happy Coding 🚀
+
+</div>
