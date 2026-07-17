@@ -81,7 +81,6 @@ I'm a passionate **Backend Developer** from **Egypt 🇪🇬** who enjoys buildi
 ---
 
 # 📊 GitHub Statistics
-
 <div align="center">
 
 <img height="180em"
@@ -150,120 +149,54 @@ src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/o
 
 Modern REST API built using Laravel.
 
+# 🚀 Featured Projects
+
+## 🔹 Laravel REST API
+
+Backend REST API built with Laravel.
+
 ### Features
 
 - Authentication
 - Authorization
-- RESTful API
-- Resource Responses
+- REST API
 - Validation
-- API Resources
+- MySQL
+- Repository Pattern
 
-</td>
+🔗 https://github.com/YOUR_GITHUB_USERNAME
 
-<td width="50%">
+---
 
-### 📧 Clean Email Clone
+## 🔹 Gmail Cleaner
 
-Email management application inspired by Clean Email.
+Android Application built with Kotlin.
 
 ### Features
 
 - Gmail API
-- OAuth2
-- Labels
-- Bulk Delete
-- Filters
-- Search
+- OAuth 2.0
+- MVVM
+- Retrofit
+- Room Database
 
-</td>
-</tr>
+🔗 https://github.com/YOUR_GITHUB_USERNAME
 
-<tr>
-<td width="50%">
+---
 
-### 🛒 Multi Vendor API
+## 🔹 Prayer Reminder
 
-Laravel Multi Vendor Backend.
+Android application.
 
 ### Features
 
-- Products
-- Categories
-- Orders
-- Payments
-- Dashboard
-- Roles & Permissions
-
-</td>
-
-<td width="50%">
-
-### 📱 Prayer Alarm
-
-Android App using Kotlin.
-
-### Features
-
-- Prayer Times
+- Prayer Times API
+- AlarmManager
 - Notifications
-- Alarm Before Adhan
-- Qibla
-- Azkar
+- Location
+- Background Tasks
 
-</td>
-</tr>
-
-</table>
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Become Laravel Backend Engineer
-- ✅ Master REST API Design
-- ✅ Learn System Design
-- ✅ Master Docker
-- ✅ Learn Kubernetes Basics
-- ✅ Build Production Applications
-- ✅ Publish Android Apps
-- ✅ Contribute to Open Source
-
----
-
-# 📚 Learning Roadmap
-
-```text
-✔ PHP
-
-✔ OOP
-
-✔ MySQL
-
-✔ Git
-
-✔ Laravel
-
-⬜ Design Patterns
-
-⬜ SOLID
-
-⬜ Docker
-
-⬜ Linux
-
-⬜ Testing
-
-⬜ System Design
-
-⬜ Microservices
-
-⬜ Kotlin
-
-⬜ Android
-
-⬜ Jetpack Compose
-```
+🔗 https://github.com/YOUR_GITHUB_USERNAME
 
 ---
 
