@@ -1,60 +1,67 @@
-<h1 align="center">
-  👋 Hi, I'm Abdullah Ahmed EL-Dakhly
-</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Ahmed EL-Dakhly</h1>
 
 <h3 align="center">
-Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
+Backend Laravel Developer • REST API Developer • Kotlin Android Learner
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdullahEL-dakhly&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/abdullahEL-dakhly?style=social" />
-
-<img src="https://img.shields.io/github/stars/abdullahEL-dakhly?style=social" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Laravel+Developer;REST+API+Developer;Kotlin+Android+Learner;Always+Learning+New+Things"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Backend Developer passionate about building scalable REST APIs using Laravel.
+I'm a Backend Developer from Egypt 🇪🇬
 
-📱 Currently learning Native Android Development with Kotlin.
-
-🌱 Always improving my skills in Software Architecture, Clean Code and Backend Engineering.
-
-🎯 My goal is to become a professional Backend Engineer and build products that solve real-world problems.
-
----
-
-# 🚀 Current Focus
-
-- 🔥 Laravel 12 / 13
-- 📱 Kotlin Android
-- 🌐 REST APIs
-- 🔐 Authentication & Authorization
-- 🗄️ MySQL
-- ⚡ Git & GitHub
-- 🏗️ Clean Architecture
-- 🧩 Design Patterns
+- 🔭 Currently working on Laravel REST APIs
+- 🌱 Learning Kotlin & Android Development
+- 💡 Interested in Clean Architecture & Design Patterns
+- ⚡ Passionate about Backend Development
+- 🎯 Goal: Become a Senior Backend Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,kotlin,mysql,git,github,postman,linux,vscode,androidstudio,java,firebase&perline=6"/>
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kotlin"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Metrics
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="./github-metrics.svg"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahEL-dakhly&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahEL-dakhly&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -83,80 +90,58 @@ Backend Laravel Developer • Kotlin Android Learner • REST API Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahEL-dakhly&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahEL-dakhly&theme=tokyonight&margin-w=10&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-## 🔹 Laravel REST API
+<p align="center">
 
-Backend REST API built with Laravel.
+<img src="https://raw.githubusercontent.com/abdullahEL-dakhly/Abdullah-A.-EL-Dakhly/output/github-contribution-grid-snake-dark.svg"/>
 
-### Features
-
-- Authentication
-- Authorization
-- REST API
-- Validation
-- MySQL
-- Repository Pattern
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-## 🔹 Gmail Cleaner
-
-Android Application built with Kotlin.
-
-### Features
-
-- Gmail API
-- OAuth 2.0
-- MVVM
-- Retrofit
-- Room Database
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-## 🔹 Prayer Reminder
-
-Android application.
-
-### Features
-
-- Prayer Times API
-- AlarmManager
-- Notifications
-- Location
-- Background Tasks
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME
+</p>
 
 ---
 
 # 📚 Currently Learning
 
 - Laravel Advanced
-- Kotlin
-- Android Development
-- Clean Architecture
 - Design Patterns
-- System Design
+- SOLID Principles
+- Clean Architecture
+- Android with Kotlin
+- Jetpack Compose
+- Coroutines
+- MVVM
 
 ---
 
-# 💼 Latest LinkedIn Posts
+# ⭐ Featured Projects
 
-- 🚀 Why You Should Use PATCH Instead of PUT
-- 🔥 Laravel Tips & Tricks
-- 📱 My Journey Learning Kotlin
-- 🌐 REST API Best Practices
+### 🚀 Laravel REST API
+
+Modern REST API built with Laravel.
+
+---
+
+### 📧 Clean Email Clone
+
+Email management app using Gmail API.
+
+---
+
+### 📱 Prayer Alarm App
+
+Android app built with Kotlin.
+
+---
+
+### 🛒 Multi Vendor E-Commerce API
+
+Backend using Laravel.
 
 ---
 
@@ -164,32 +149,40 @@ Android application.
 
 <p align="center">
 
-<a href="https://github.com/abdullahEL-dakhly">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<a href="YOUR_LINKEDIN">
 
-<a href="www.linkedin.com/in/abdullah-a-el-dakhly-683098366">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdullahEL-dakhly&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
-
-– John Johnson
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ If you like my work, don't forget to star my repositories.
 
 </p>
