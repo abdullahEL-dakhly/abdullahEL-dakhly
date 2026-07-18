@@ -37,14 +37,14 @@ I'm a passionate **Backend Developer** from **Egypt 🇪🇬** who enjoys buildi
 
 ## 🌱 Currently Learning
 
-- Laravel Advanced
-- Kotlin
-- Jetpack Compose
-- MVVM
-- Coroutines
-- Firebase
-- Docker
-- Linux
+- [ ] Laravel Advanced  
+- [ ] Kotlin
+- [ ] Jetpack Compose
+- [ ] MVVM
+- [ ] Coroutines
+- [ ] Firebase
+- [ ] Docker
+- [ ] Linux
 
 ---
 
@@ -172,9 +172,10 @@ src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 Authentication • Authorization • REST API • Swagger • Repository Pattern
 
 <br><br>
+[ ]  
 
 <a href="#">
-
+  
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 
 </a>
@@ -204,6 +205,8 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAC/android-studio.gif"/>
 OAuth2 • Gmail API • MVVM • Retrofit • Room
 
 <br><br>
+
+[ ]  
 
 <a href="#">
 
@@ -239,6 +242,8 @@ Prayer Times • AlarmManager • Notifications • GPS
 
 <br><br>
 
+[ ]  
+
 <a href="#">
 
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
@@ -267,7 +272,10 @@ src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 Products • Orders • Vendors • Payments • Coupons
 
+
 <br><br>
+
+[ ]  
 
 <a href="#">
 
